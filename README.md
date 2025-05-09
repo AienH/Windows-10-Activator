@@ -26,8 +26,10 @@
 
 ## 方法 2
 
-```bat
-cscript slmgr.vbs /ipk "SERIAL NUMBER HERE"
+   ```
+1. 以管理员身份打开 CMD。
+
+2. 依次在 CMD 中粘贴并执行以下命令：
 
 # 请根据您的 Windows 10 安装版本，将 SERIAL NUMBER HERE 替换为以下任意一个序列号：
 #     家庭版/核心版                    TX9XD-98N7V-6WMQ6-BX7FG-H8Q99
@@ -48,7 +50,7 @@ cscript slmgr.vbs /ipk "SERIAL NUMBER HERE"
 cscript slmgr.vbs /skms kms.lotro.cc
 
 cscript slmgr.vbs /ato
-
+```
 
 ## 方法 3
 
@@ -58,7 +60,7 @@ cscript slmgr.vbs /ato
 
 以管理员身份在 CMD 中依次运行以下命令：
 
-```text
+```
 slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
 slmgr /skms kms8.msguides.com
 slmgr /ato
@@ -67,7 +69,7 @@ slmgr /xpr
 
 ## 所有 Windows 10 产品密钥
 
-```text
+```
 Home:                        TX9XD-98N7V-6WMQ6-BX7FG-H8Q99
 Home N:                      3KHY7-WNT83-DGQKR-F7HPR-844BM
 Home Single Language:        7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH
@@ -78,8 +80,5 @@ Education:                   NW6C2-QMPVW-D7KKK-3GKT6-VCFB2
 Education N:                 2WH4N-8QGBV-H22JP-CT43Q-MDWWJ
 Enterprise:                  NPPR9-FWDCX-D2C8J-H872K-2YT43
 Enterprise N:                DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4
-```
-
-```
 ```
 
