@@ -8,10 +8,10 @@
 slmgr /ipk "对应版本序列号"
 
 # 请根据您的 Windows 10 安装版本，将 SERIAL NUMBER HERE 替换为以下任意一个序列号：
-#     家庭版/核心版                    TX9XD-98N7V-6WMQ6-BX7FG-H8Q99
-#     家庭版/核心版（特定国家）        PVMJN-6DFY6-9CCP6-7BKTT-D3WVR
-#     家庭版/核心版（单语言）          7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH
-#     家庭版/核心版 N                  3KHY7-WNT83-DGQKR-F7HPR-844BM
+#     家庭版/核心版                   TX9XD-98N7V-6WMQ6-BX7FG-H8Q99
+#     家庭版/核心版(特定国家)         PVMJN-6DFY6-9CCP6-7BKTT-D3WVR
+#     家庭版/核心版(单语言)           7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH
+#     家庭版/核心版 N                 3KHY7-WNT83-DGQKR-F7HPR-844BM
 #     专业版                          W269N-WFGWX-YVC9B-4J6C9-T83GX
 #     专业版 N                        MH37W-N47XK-V7XM9-C7227-GCQG9
 #     企业版                          NPPR9-FWDCX-D2C8J-H872K-2YT43
