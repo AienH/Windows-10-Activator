@@ -31,7 +31,7 @@
 
 2. 依次在 CMD 中粘贴并执行以下命令：
 
-cscript slmgr.vbs /ipk "对应版本序列号"
+slmgr /ipk "对应版本序列号"
 
 # 请根据您的 Windows 10 安装版本，将 SERIAL NUMBER HERE 替换为以下任意一个序列号：
 #     家庭版/核心版                   TX9XD-98N7V-6WMQ6-BX7FG-H8Q99
@@ -49,9 +49,9 @@ cscript slmgr.vbs /ipk "对应版本序列号"
 #     企业版 2016 LTSB                DCPHK-NFMTC-H88MJ-PFHPY-QJ4BJ
 #     企业版 2016 LTSB N              QFFDN-GRT3P-VKWWX-X7T3R-8B639
 
-cscript slmgr.vbs /skms kms.lotro.cc
+slmgr /skms kms.lotro.cc
 
-cscript slmgr.vbs /ato
+slmgr /ato
 ```
 
 ## 方法 3
