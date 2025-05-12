@@ -30,7 +30,7 @@
 1. 以管理员身份打开 CMD。
 
 2. 依次在 CMD 中粘贴并执行以下命令：
-
+cscript slmgr.vbs /ipk "对应版本序列号"
 # 请根据您的 Windows 10 安装版本，将 SERIAL NUMBER HERE 替换为以下任意一个序列号：
 #     家庭版/核心版                    TX9XD-98N7V-6WMQ6-BX7FG-H8Q99
 #     家庭版/核心版（特定国家）        PVMJN-6DFY6-9CCP6-7BKTT-D3WVR
